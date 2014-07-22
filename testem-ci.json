@@ -1,0 +1,15 @@
+{
+    "framework": "mocha",
+    "src_files": [
+        "node_modules/chai/chai.js",
+        "spec/config/setup.js",
+        "dist/spec/spec.js"
+    ],
+    "launchers": {
+
+    },
+    "launch_in_ci": [
+        "phantomjs"
+    ]
+
+}

@@ -1,0 +1,24 @@
+{
+  "name": "bower-angular-bundle",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simpleMonk/bower-angular-bundle",
+  "authors": [
+    "SimpleMonk <simplemonk08@gmail.com>"
+  ],
+  "description": "Custom bower package for Angular and frequently used libraries",
+  "keywords": [
+    "angular",
+    "javascript",
+    "library",
+    "bundle"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
